@@ -11,7 +11,7 @@ export const getListEpisodes = async (
     req: http.IncomingMessage, 
     res: http.ServerResponse
 ) => {
-    const content: PodcastTransferModel = await serviceListEpisodes();
+    const content: PodcastTransferModel = await serviceListEpisodes(req.url);
 
     res.writeHead(content.statusCode, defaultContent);
     res.write(JSON.stringify(content.body));
