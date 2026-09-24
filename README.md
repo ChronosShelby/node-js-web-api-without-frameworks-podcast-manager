@@ -68,4 +68,4 @@ A abordagem permite entender conceitos fundamentais que posteriormente podem ser
 **Igor Gabriel Antunes da Silva**
 
 * GitHub: [@ChronosShelby](https://github.com/ChronosShelby)
-* LinkedIn: [igorgabriel](https://linkedin.com/in/igorgabriel)
+* LinkedIn: [igorgabriel](https://linkedin.com/in/igorgbiel)
